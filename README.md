@@ -3,7 +3,7 @@ UX Best Practices - March 2018 Meetup
 
 ## Overview
 
-Tim Franklin, Director of Product Development at [Gravitate Solutions](http://www.gravitatesolutions.com), presented on UX Best Practices on Tuesday, March 27.
+Tim Franklin, Director of Product Development at [Gravitate Solutions](http://www.gravitatesolutions.com), presented on UX Best Practices on Tuesday, March 27.  The presentation was aimed towards developers, designers, project managers, and business stakeholders alike. It covered cross-cutting best practices and principles regardless of platform or form factor--applicable to a wide range of usage.
 
 ## Resources
 
